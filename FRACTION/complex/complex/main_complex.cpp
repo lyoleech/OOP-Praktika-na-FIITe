@@ -1,7 +1,3 @@
-//
-// Created by perepelicin on 03.07.19.
-//
-
 #include <iostream>
 #include "Complex.h"
 
